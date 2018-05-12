@@ -2,11 +2,12 @@
 | Marcus | Cole | Joshua |
 | :---: | :---: | :---: |
 | 0 | 0 | 1 |
+
 Somehow, Joshua's winning
 
 ### Competitions
 | Subject | Filename or Directory | Players | Winner(s) | Filesize
-| --- | --- | --- | --- | ---: |
+| --- | :---: | --- | --- | ---: |
 | Fizzbuzz | fizzbuzz | Cole, Joshua | Joshua | ? |
 
 ### Cole's Contributions
