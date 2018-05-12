@@ -17,7 +17,7 @@ Somehow, Joshua's winning
 | --- | ---: | ---: | --- |
 | Sierpinski Triangle Generator | [c.html](../c.html) | Cole, Marcus |
 | Tech Practice | [tek.html](../tek.html) | Marcus, Cole |
-| Fizzbuzz | [fizzbuzz](../fizzbuzz) | Cole, Joshua | 88 chrs |
+| Fizzbuzz | [fizzbuzz](../fizzbuzz) | Cole, Joshua | 87 chrs |
 
 ### Cole's Contributions
 | Subject | Filename or Directory | Filesize |
