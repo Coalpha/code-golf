@@ -4,7 +4,8 @@ Needless to say, the only exposed global should be `fizzbuzz`.
 
 ### Players
 Cole - 98chrs
-Joshua -
+
+Joshua - 93chrs
 
 ### Victor
 Joshua
