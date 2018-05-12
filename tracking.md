@@ -8,7 +8,7 @@ Somehow, Joshua's winning
 ### Competitions
 | Subject | Filename or Directory | Players | Winner(s) | Winning Filesize
 | --- | :---: | --- | --- | ---: |
-| Fizzbuzz | [fizzbuzz](../fizzbuzz) | Cole, Joshua | Joshua | 93 |
+| Fizzbuzz | [fizzbuzz](../fizzbuzz) | Cole, Joshua | Joshua | 93 chrs |
 | Base Digit | [base-digit](../base-digit) | Cole | Not Completed | ? |
 | Binary Tree Compression | [binary-tree-compression](../binary-tree-compression) | Cole | Not Completed | ? |
 
@@ -17,7 +17,7 @@ Somehow, Joshua's winning
 | --- | ---: | ---: | --- |
 | Sierpinski Triangle Generator | [c.html](../c.html) | Cole, Marcus |
 | Tech Practice | [tek.html](../tek.html) | Marcus, Cole |
-| Fizzbuzz | [fizzbuzz](../fizzbuzz) | Cole, Joshua | 88chrs |
+| Fizzbuzz | [fizzbuzz](../fizzbuzz) | Cole, Joshua | 88 chrs |
 
 ### Cole's Contributions
 | Subject | Filename or Directory | Filesize |
