@@ -1,13 +1,32 @@
-# Code Golf: Yay!
-This is a repo for competitions or just fun things having to do with code golf!
+# The "official" code golf tracking sheet
+| Marcus | Cole | Joshua |
+| :---: | :---: | :---: |
+| 0 | 0 | 1 |
 
-### Directory Structure
-* Files will be prefixed with either `c-`, `j-`, or `m-` to indicate the contributor or player
-* If there's more than one contributor just add two letters before the `-`, for instance `mc-tek.html`
-* Files and directories will use `kebab-case`
-* Competitions will be placed in a single directory
-* Files will not be named `main.js`, name them whatever the subject of the golfing is
+Somehow, Joshua's winning
 
-### Designating a Task
-* `README.md` files will be used to designate tasks
-* Tasks marked with `CLEAN` shouldn't produce any globals except for the global being executed
+### Competitions
+| Subject | Filename or Directory | Players | Winner(s) | Winning Filesize
+| --- | :---: | --- | --- | ---: |
+| Fizzbuzz | [fizzbuzz](../fizzbuzz) | Cole, Joshua | Joshua | 93 chrs |
+| Base Digit | [base-digit](../base-digit) | Cole | Not Completed | ? |
+| Binary Tree Compression | [binary-tree-compression](../binary-tree-compression) | Cole | Not Completed | ? |
+
+# Mixed Contributions
+| Subject | Filename or Directory | Contributors | Filesize |
+| --- | ---: | ---: | --- |
+| Sierpinski Triangle Generator | [c.html](../c.html) | Cole, Marcus | 373 chrs |
+| Tech Practice | [tek.html](../tek.html) | Marcus, Cole |
+| Fizzbuzz | [fizzbuzz](../fizzbuzz) | Cole, Joshua | 87 chrs |
+
+### Cole's Contributions
+| Subject | Filename or Directory | Filesize |
+| --- | ---: | ---: |
+| Debrujin Sequence | [c-debrujin](../c-debrujin) |
+| Force Download | [m-force-download.js](../m-force-download.js) |
+| Burrows Wheeler Transform | [c-burrows-wheeler-transform](../c-burrows-wheeler-transform) |
+
+### Marcus' Contributions
+| Subject | Filename or Directory |
+| --- | ---: |
+| Force Download | [m-force-download.js](../m-force-download.js) |
