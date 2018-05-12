@@ -3,7 +3,8 @@ A function call `fizzbuzz(n)` should play fizzbuzz up till number `n` and print 
 
 ### Players
 Cole - 98chrs
-Joshua - 94chrs
+
+Joshua - 93chrs
 
 ### Victor
 Joshua
