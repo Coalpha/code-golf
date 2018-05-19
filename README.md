@@ -1,9 +1,9 @@
 # The "official" code golf tracking sheet
 | Marcus | Cole | Joshua |
 | :---: | :---: | :---: |
-| 0 | 0 | 1 |
+| 0 | 1 | 1 |
 
-Somehow, Joshua's winning
+Marcus is losing :P
 
 ### Competitions
 | Subject | Filename or Directory | Players | Winner(s) | Winning Filesize
