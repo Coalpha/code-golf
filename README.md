@@ -9,6 +9,7 @@ Marcus is losing :P
 | Subject | Filename or Directory | Players | Winner(s) | Winning Filesize
 | --- | :---: | --- | --- | ---: |
 | Fizzbuzz | [fizzbuzz](../fizzbuzz) | Cole, Joshua | Joshua | 93 chrs |
+| Fibonacci | [fibonacci](../fibonacci) | Cole, Joshua | Cole | 67 chrs |
 | Base Digit | [base-digit](../base-digit) | Cole | Not Completed | ? |
 | Binary Tree Compression | [binary-tree-compression](../binary-tree-compression) | Cole | Not Completed | ? |
 
