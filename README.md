@@ -8,10 +8,11 @@ Marcus is losing :P
 ### Competitions
 | Subject | Filename or Directory | Players | Winner(s) | Winning Filesize
 | --- | :---: | --- | --- | ---: |
-| Fizzbuzz | [fizzbuzz](../fizzbuzz) | Cole, Joshua | Joshua | 93 chrs |
-| Fibonacci | [fibonacci](../fibonacci) | Cole, Joshua | Cole | 67 chrs |
-| Base Digit | [base-digit](../base-digit) | Cole | Not Completed | ? |
-| Binary Tree Compression | [binary-tree-compression](../binary-tree-compression) | Cole | Not Completed | ? |
+| Fizzbuzz | [fizzbuzz](./fizzbuzz) | Cole, Joshua | Joshua | 93 chrs |
+| Fibonacci | [fibonacci](./fibonacci) | Cole, Joshua | Cole | 67 chrs |
+| Base Digit | [base-digit](./base-digit) | Cole | Not Completed | ? |
+| Binary Tree Compression | [binary-tree-compression](./binary-tree-compression) | Cole | Not Completed | ? |
+| String Length Length | [string-length-length](./string-length-length) | Marcus, Cole gave up | Not Completed | ? |
 
 # Mixed Contributions
 | Subject | Filename or Directory | Contributors | Filesize |
