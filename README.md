@@ -19,6 +19,7 @@ Marcus is losing :P
 | Sierpinski Triangle Generator | [c.html](../c.html) | Cole, Marcus | 373 chrs |
 | Tech Practice | [tek.html](../tek.html) | Marcus, Cole |
 | Fizzbuzz | [fizzbuzz](../fizzbuzz) | Cole, Joshua | 87 chrs |
+| Promise Object All | [../jc-promise-objectAll] | Joshua, Cole | 108 chrs |
 
 ### Cole's Contributions
 | Subject | Filename or Directory | Filesize |
