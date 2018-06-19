@@ -1,7 +1,7 @@
 # The "official" code golf tracking sheet
 | Marcus | Cole | Joshua |
 | :---: | :---: | :---: |
-| 0 | 1 | 1 |
+| 1 | 1 | 1 |
 
 Marcus is losing :P
 
@@ -12,7 +12,7 @@ Marcus is losing :P
 | Fibonacci | [fibonacci](./fibonacci) | Cole, Joshua | Cole | 67 chrs |
 | Base Digit | [base-digit](./base-digit) | Cole | Not Completed | ? |
 | Binary Tree Compression | [binary-tree-compression](./binary-tree-compression) | Cole | Not Completed | ? |
-| String Length Length | [string-length-length](./string-length-length) | Marcus, Cole gave up | Not Completed | ? |
+| String Length Length | [string-length-length](./string-length-length) | Marcus, Cole gave up | Marcus | 91 |
 
 # Mixed Contributions
 | Subject | Filename or Directory | Contributors | Filesize |
