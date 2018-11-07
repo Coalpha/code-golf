@@ -1,1 +1,1 @@
-arrayPairs=(a,b,i=0)=>a.map((t,w)=>!!(w=b.indexOf(t,i)+1)&&(i=w,t)).filter(a=>a!==false);
+arrayPairs=(a,b,c=b.slice())=>a.reduce((d,t,w)=>~(w=c.indexOf(t))?d.concat(c.splice(w,1)):d,[])
