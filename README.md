@@ -3,7 +3,7 @@
 | :---: | :---: | :---: |
 | 1 | 2 | 1 |
 
-Marcus is losing :P
+Cole is Winning! :(
 
 ### Competitions
 | Subject | Filename or Directory | Players | Winner(s) | Winning Filesize
