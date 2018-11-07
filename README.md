@@ -3,7 +3,7 @@
 | :---: | :---: | :---: |
 | 1 | 2 | 1 |
 
-Cole is Winning! :(
+Cole is Winning! >:)
 
 ### Competitions
 | Subject | Filename or Directory | Players | Winner(s) | Winning Filesize
