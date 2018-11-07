@@ -14,6 +14,7 @@ Cole is Winning! >:)
 | Binary Tree Compression | [binary-tree-compression](binary-tree-compression) | Cole | Not Completed | ? |
 | String Length Length | [string-length-length](string-length-length) | Marcus, ~~Cole~~ | Marcus | 91 |
 | Orderings | [orderings](orderings) | Cole, ~~Joshua~~ | Cole | 140 chrs |
+| Array Pairs | [array-pairs](array-pairs) | Cole, Joshua | Tie | 93 chrs |
 
 # Mixed Contributions
 | Subject | Filename or Directory | Contributors | Filesize |
