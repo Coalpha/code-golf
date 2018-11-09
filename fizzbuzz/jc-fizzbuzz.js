@@ -1,1 +1,1 @@
-fizzbuzz=i=>Array(i).fill``.map((v,i)=>console.log((i%3?'':'fizz')+(i%5?'':'buzz')||i))
+fizzbuzz=n=>Array(n).fill``.map((v,i)=>(i%3?'':'fizz')+(i%5?'':'buzz')||i)

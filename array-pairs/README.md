@@ -4,3 +4,13 @@ A function exposed to the global scope with types:
 arrayPairs(ary0: Array<T>, ary1: Array<T>): Array<T>
 ```
 returns an Array consisting of elements that both arrays have, in pairs.
+
+### Call
+`arrayPairs(ary0, ary1)`
+
+### Players
+* Cole - 92 chrs
+* Joshua - N/A
+
+### Victor
+Cole

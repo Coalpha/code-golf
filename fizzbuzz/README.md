@@ -3,10 +3,10 @@ A function call `fizzbuzz(n)` should play fizzbuzz up till number `n` and print 
 Needless to say, the only exposed global should be `fizzbuzz`.
 
 ### Players
-* Cole - 97 chrs
-* Joshua - 93 chrs
+* Cole - 85 chrs
+* Joshua - 81 chrs
 
 ### Victor
 Joshua
 
-## Current Size: 87 chrs
+## Current Size: 75 chrs
