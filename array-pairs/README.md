@@ -5,6 +5,7 @@ arrayPairs(ary0: Array<T>, ary1: Array<T>): Array<T>
 ```
 returns an Array consisting of elements that both arrays have, in pairs.
 
+<<<<<<< HEAD
 ### Call
 `arrayPairs(ary0, ary1)`
 
@@ -14,3 +15,6 @@ returns an Array consisting of elements that both arrays have, in pairs.
 
 ### Victor
 Cole
+=======
+Note: Cole and Joshua came up with the same solution, so for the sake of variety, Joshua entered a different algorithm.
+>>>>>>> 2be2dbbeb577958d684db52adc65b3749608b0a3

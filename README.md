@@ -13,8 +13,12 @@ This doesn't really show how good someone is since it's based on who participate
 | Sort Count | [sort-count](sort-count) | Cole, Marcus | Cole | 54 chrs |
 | String Length Length | [string-length-length](string-length-length) | Marcus, ~~Cole~~ | Marcus | 91 |
 | Orderings | [orderings](orderings) | Cole, ~~Joshua~~ | Cole | 140 chrs |
+<<<<<<< HEAD
 | Array Pairs | [array-pairs](array-pairs) | Cole, ~~Joshua~~ | Cole | 92 chrs |
 | Fizzbuzz noCond | [fizzbuzz/noCond](fizzbuzz/noCond) | Cole, Joshua | Cole | 99 chrs |
+=======
+| Array Pairs | [array-pairs](array-pairs) | Cole, Joshua | Tie | 93 chrs |
+>>>>>>> 2be2dbbeb577958d684db52adc65b3749608b0a3
 
 # Mixed Contributions
 | Subject | Filename or Directory | Contributors | Filesize |
