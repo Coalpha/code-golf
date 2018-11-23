@@ -20,7 +20,6 @@ This doesn't really show how good someone is since it's based on who participate
 | Subject | Filename or Directory | Contributors | Filesize |
 | --- | ---: | ---: | --- |
 | Sierpinski Triangle Generator | [c.html](c.html) | Cole, Marcus | 373 chrs |
-| Tech Practice | [tek.html](tek.html) | Marcus, Cole |
 | Fizzbuzz | [fizzbuzz](fizzbuzz) | Cole, Joshua | 87 chrs |
 | Promise Object All | [jc-promise-objectAll](jc-promise-objectAll.js) | Joshua, Cole | 108 chrs |
 
