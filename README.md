@@ -1,7 +1,7 @@
 # The "official" code golf tracking sheet
 | Marcus | Cole | Joshua |
 | :---: | :---: | :---: |
-| 1 | 5 | 1 |
+| 1 | 5 | 2 |
 
 This doesn't really show how good someone is since it's based on who participated
 
@@ -15,6 +15,7 @@ This doesn't really show how good someone is since it's based on who participate
 | Orderings | [orderings](orderings) | Cole, ~~Joshua~~ | Cole | 140 chrs |
 | Array Pairs | [array-pairs](array-pairs) | Cole, ~~Joshua~~ | Cole | 92 chrs |
 | Fizzbuzz noCond | [fizzbuzz/noCond](fizzbuzz/noCond) | Cole, Joshua | Cole | 99 chrs |
+| Palindrome | [palindrome](palindrome) | Cole, Joshua | Joshua | 89 |
 
 # Mixed Contributions
 | Subject | Filename or Directory | Contributors | Filesize |
