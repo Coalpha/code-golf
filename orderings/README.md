@@ -3,7 +3,9 @@ Exposes a global function `orderings`
 ```ts
 orderings(ary: Array<String>) : Array<String>
 ```
-It takes an Array of Strings and returns all permuations of the strings concatenated.
+
+It takes an Array of Strings and returns all permutations of the strings concatenated.
+
 ```js
 orderings(['foo', 'bar']); // => ['foobar', 'barfoo']
 ```
