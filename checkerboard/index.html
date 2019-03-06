@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Checkerboard</title>
+  <style>
+    html, body, #c {
+      height: 100%;
+      width: 100%;
+      overflow: hidden;
+      background: black;
+      margin: 0px;
+    }
+  </style>
+</head>
+<body>
+  <canvas id=c></canvas>
+  <script>
+    c.width=screen.availWidth;
+    c.height=screen.availHeight;
+    let ctx=c.getContext("2d");
+    ctx.fillStyle='#fff';
+  </script>
+</body>
+</html>
