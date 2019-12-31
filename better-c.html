@@ -1,0 +1,39 @@
+<title>Choas Gaem</title>
+<canvas id=c></canvas>
+<style>
+   * {
+      margin: 0;
+      overflow: hidden;
+      background: black;
+      /* image-rendering: crisp-edges; */
+   }
+</style>
+<script>
+   const c = document.getElementById("c");
+   c.style.width = innerWidth + "px";
+   c.style.height = innerHeight + "px";
+   
+   const scale = 2;
+   const width = c.width = innerWidth * scale;
+   const height = c.height = innerHeight * scale;
+   const ctx = c.getContext("2d", { alpha: false });
+   ctx.fillStyle = "white";
+   ctx.scale(scale, scale);
+   // ctx.imageSmoothingEnabled = false;
+
+
+
+   const rand = max => Math.random() * max | 0;
+   const randPoint = () => [rand(width), rand(height)];
+   const startingPoints = [randPoint(), randPoint(), randPoint()];
+   const pixelAt = point => ctx.fillRect(...point, 1, 1);
+   startingPoints.forEach(pixelAt);
+   var current = startingPoints[0];
+   var currentCorner;
+   const midway = xy => (current[xy] + currentCorner[xy]) / 2 | 0;
+   function tick() {
+      currentCorner = startingPoints[rand(3)];
+      pixelAt(current = [midway(0), midway(1)]);
+   };
+   setInterval(tick, 1);
+</script>

@@ -18,7 +18,7 @@ This doesn't really show how good someone is since it's based on who participate
 | Array Pairs | [array-pairs](array-pairs) | Cole, ~~Joshua~~ | Cole | 92 chrs |
 | Fizzbuzz noCond | [fizzbuzz/noCond](fizzbuzz/noCond) | Cole, Joshua | Cole | 99 chrs |
 | Palindrome | [palindrome](palindrome) | Cole, Joshua | Joshua | 89 |
-| Checkerboard | [checkerboard](checkerboard) | ~~Cole~~, Joshua | Joshua | 97 chrs |
+| Checkerboard | [checkerboard](checkerboard) | ~~Cole~~ (Gave up), ~~Joshua~~ (Bad output) | Nobody | no chrs |
 
 # Mixed Contributions
 
