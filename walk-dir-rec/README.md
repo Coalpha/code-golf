@@ -5,6 +5,6 @@ Assume the modules `fs` and `path` are already required and in the global scope.
 
 ### Players
 
-* Cole - 0 chrs
-* Joshua - 0 chrs
+* Cole - 154 chrs
+* Joshua - 181 chrs
 * Marcus - 0 chrs
