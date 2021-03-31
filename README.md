@@ -1,5 +1,7 @@
 # The "official" code golf tracking sheet
 
+![](misc/icon.png)
+
 | Marcus | Cole | Joshua |
 | :---: | :---: | :---: |
 | 1 | 5 | 2 |
