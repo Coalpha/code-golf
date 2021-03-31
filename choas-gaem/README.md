@@ -5,8 +5,7 @@ On 27 April 2017, Numberphile released
 And well, it was incredible to see that Sierpinski triangle generate from such a
 simple set of rules. At school, Marcus and I decided to code golf it, or something.
 I don't actually really remember the day but I probably made it and he started
-suggesting ways to svchrs. Since that video, several improvements were made up
-until around the summer of 2019 where the final improvements were made.
+suggesting ways to svchrs.
 
 
 ## svschrs
