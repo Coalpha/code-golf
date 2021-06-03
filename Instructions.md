@@ -1,7 +1,9 @@
 # Code Golf: Yay!
+
 This is a repo for competitions or just fun things having to do with code golf!
 
 ### Directory Structure
+
 * Files will be prefixed with either `c-`, `j-`, or `m-` to indicate the contributor or player
 * If there's more than one contributor just add two letters before the `-`, for instance `mc-tek.html`
 * Files and directories will use `kebab-case`
@@ -10,5 +12,6 @@ This is a repo for competitions or just fun things having to do with code golf!
 * Directories that include competitions should have a `submissions` folder to differentiate between contests and improvements
 
 ### Designating a Task
+
 * `README.md` files will be used to designate tasks
 * Tasks marked with `CLEAN` shouldn't produce any globals except for the global being executed
